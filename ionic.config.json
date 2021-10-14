@@ -1,0 +1,7 @@
+{
+  "name": "cs-popover-v4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
